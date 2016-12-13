@@ -26,5 +26,8 @@
   "homepage": "https://github.com/csabbee/business-leagueify#readme",
   "devDependencies": {
     "jest": "^17.0.3"
+  },
+  "dependencies": {
+    "browserify-transform-tools": "^1.7.0"
   }
 }
