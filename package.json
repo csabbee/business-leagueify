@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/csabbee/business-leagueify/issues"
   },
-  "homepage": "https://github.com/csabbee/business-leagueify#readme"
+  "homepage": "https://github.com/csabbee/business-leagueify#readme",
+  "devDependencies": {
+    "jest": "^17.0.3"
+  }
 }
