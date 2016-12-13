@@ -15,6 +15,9 @@
     "transformer",
     "browserify"
   ],
+  "engines": {
+    "node": ">=5.10.1"
+  }
   "author": "Csaba Valyi",
   "license": "MIT",
   "bugs": {
