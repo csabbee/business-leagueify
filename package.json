@@ -1,6 +1,6 @@
 {
   "name": "business-leagueify",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Sourcemap path transformer for browserify for windows",
   "main": "index.js",
   "scripts": {
